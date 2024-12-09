@@ -1,7 +1,7 @@
 
-##SyriaTel Customer Churn Prediction********
+**#SyriaTel Customer Churn Prediction**
 
-**##Overview**
+**#Overview**
 This project aims to predict customer churn for SyriaTel, a telecommunications company in Syria. By identifying customers likely to churn, the goal is to help SyriaTel implement targeted retention strategies, reduce churn rates, and improve profitability.
 
 **Problem Statement**
